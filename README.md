@@ -8,9 +8,7 @@ This is the Software Design and Implementation coursework: an analysis/design re
 
 1. Open `Software Design & Imp/NTUTimetableManagementSystem/NTUTimetableManagementSystem/NTUTimetableManagementSystem.sln` in Visual Studio.
 2. Build and run the console project.
-3. Log in with the demo accounts from `main.cpp`:
-   - Admin: `admin` / `adminpass`
-   - Student: `student` / `studentpass`
+3. Use the coursework demo logins defined in `main.cpp` (admin and student roles).
 
 Working files (`Modules.txt`, `Timetable.txt`, `students.txt`, and similar) sit next to the source so the program can read and write them at runtime.
 
